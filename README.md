@@ -9,7 +9,7 @@ daily basis and am now associate professor at the IUT Grand Ouest Normandie, in 
 You can reach me on my [pro](germain.clavier@unicaen.fr) or [perso](germain.clavier@gmail.com) mail adresses...
 or give a sight to the barely living [blog](www.enthalpiste.com) (mostly in french) I have.
 
-Lang: 🇫🇷, 🇬🇧, 🇳🇱(een beetje), 🇪🇸(un pocito) 
+Lang: 🇫🇷, 🇬🇧, 🇳🇱(een beetje), 🇪🇸(un poco) 
 <!---
 Bibobu/Bibobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
