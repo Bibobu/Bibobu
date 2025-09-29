@@ -1,4 +1,4 @@
-Hi, I’m @Bibobu
+Hi, I’m G. Clavier
 I have a training in physics and specially computational physics.
 Hence this github profile. I am specialised in using molecular modeling
 softwares, coded a few things for LAMMPS but I like to experiment and code
